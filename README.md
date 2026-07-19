@@ -30,8 +30,8 @@ A modern and responsive **Personal Portfolio Website** built using **HTML, CSS, 
 
 ## 📂 Projects Included
 
-* Neo Calculator
-* Neo Gallery Pro
+*  Calculator
+* Gallery Pro
 * Personal Portfolio
 
 ---
